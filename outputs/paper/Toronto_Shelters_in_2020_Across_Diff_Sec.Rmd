@@ -5,6 +5,7 @@ date: "February 4, 2021"
 output: pdf_document
 abstract: "The City of Toronto has 56 shelters for different sectors. In this study, I want to see which sectors were impacted by COVID-19 the most during 2020. Through data visualization, I conclude that the family sector was the most impacted by the pandemic and lockdown."
 bibliography: "references.bib"
+GitHub: 'https://github.com/alasadir/toronto_shelters_in_2020.git'
 ---
 
 # Introduction
